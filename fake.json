@@ -1,0 +1,67 @@
+
+{
+	"users": {
+		"Alex123" : {
+			"name": "Alex Chow",
+			"interest": ["soccer", "cat", "dog", "informatics", "computer"],
+			"experience": ["ux", "ui", "intern", "informatics"],
+			"area" : "Seattle",
+            "matches": ["Bre123", "Christina123", "Daisy123", "Lucy123"]
+		},
+		"Bre123" : {
+			"name": "Bre Hay",
+			"interest": ["car", "cat", "food", "math", "ux", "ui", "web"],
+			"experience": ["debate", "engineering", "software", "army"],
+			"area" : "Seattle"
+		},
+		"Christina123" : {
+			"name": "Christina Smith",
+			"interest": ["army", "cat", "game", "informatics", "hiking"],
+			"experience": ["hiking", "math", "chemistry", "physics"],
+			"area" : "Seattle"
+		},
+		"Daisy123" : {
+			"name": "Daisy Anderson",
+			"interest": ["food", "hiking", "dog", "software", "computer"],
+			"experience": ["hiking", "ui", "data science", "database"],
+			"area" : "Seattle"
+		},
+		"Ethan123" : {
+			"name": "Ethan Anderson",
+			"interest": ["grape", "butter sandwich", "dog", "data science", "database"],
+			"experience": ["data science", "design", "software", "informatics"],
+			"area" : "Seattle"
+		},
+		"Faith123" : {
+			"name": "Faith Wu",
+			"interest": ["informatics", "cat", "dog", "chemistry", "physics"],
+			"experience": ["biology", "science", "lab", "college"],
+			"area" : "Seattle"
+		},
+		"Lucy123" : {
+			"name": "Lucy Eun",
+			"interest": ["hamster", "cat", "dog", "informatics", "computer", "ux", "intern"],
+			"experience": ["ux", "ui", "intern", "informatics", "software"],
+			"area" : "Seattle"
+		},
+		"Ishan123" : {
+			"name": "Ishan Saksena",
+			"interest": ["basketball", "cat", "software", "informatics", "computer", "data science"],
+			"experience": ["database", "cat", "intern", "informatics"],
+			"area" : "Seattle"
+		},
+		"Sunho123" : {
+			"name": "Sunho Kim",
+			"interest": ["soccer", "data science", "dog", "informatics", "software"],
+			"experience": ["database", "ux", "intern", "informatics", "dog"],
+			"area" : "Seattle"
+		},
+		"Zac123" : {
+			"name": "Zac Yamamoto",
+			"interest": ["soccer", "bascketball", "intern", "biology", "college", "hiking", "design"],
+			"experience": ["chemistry", "hiking", "grape", "design"],
+			"area" : "Seattle"
+		}
+
+	}
+}
